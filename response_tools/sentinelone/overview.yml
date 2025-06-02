@@ -1,0 +1,15 @@
+title: SentinelOne
+id: RT00001
+description: SentinelOne provides EDR and EPP capabilities for organization's Security teams.
+author: '@n3tsurge'
+creation_date: 2025/05/23
+stages:
+  preparation:
+  identification:
+    - RA_2002_list_host_vulnerabilities
+    - RA_2101
+    - RA_2102
+    - RA_2103
+  containment:
+  eradication:
+  recovery:
